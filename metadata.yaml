@@ -11,6 +11,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44443#Military-schools-and-courses-of-instruction-in-the-science-and-art-of-war-Revised-Edition-
 gutenberg_issued: '2013-12-16'
 gutenberg_type: Text
 identifiers:
