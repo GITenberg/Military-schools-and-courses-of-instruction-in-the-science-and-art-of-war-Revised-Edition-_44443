@@ -1,0 +1,29 @@
+_repo: Military-schools-and-courses-of-instruction-in-the-science-and-art-of-war-Revised-Edition-_44443
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Barnard, Henry
+    birthdate: 1811
+    deathdate: 1900
+    gutenberg_agent_id: '42764'
+    url: http://www.gutenberg.org/2009/agents/42764
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2013-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44443'
+  lccn: e10000208
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military education'
+- !lcc 'U'
+title: "Military schools and courses of instruction in the science and art of war,\r\
+  \nin France, Prussia, Austria, Russia, Sweden, Switzerland, Sardinia, England, and\
+  \ the United States. Drawn from recent official reports and documents. Revised Edition"
+url: http://www.gutenberg.org/ebooks/44443
